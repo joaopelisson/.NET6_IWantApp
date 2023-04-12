@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OF1xxawMMy0C7eYhWAr3ug73CypvYH5BTdQ0lv9iUJ8chC9t10Ipq/djUzIIyApRsBzAEo0zxB6dT1m05oD71w==",
+  "dgSpecHash": "BDvE7rFpdHUkgoDH0t5lSc3CN+Pblxcjkw/PCWVgvlzLf/mPnpbu4pG1ciaM6jsfSZeCXc7CjKuZOLQfseHouA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\IWantApp\\IWantApp.csproj",
+  "projectFilePath": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\src\\IWantApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

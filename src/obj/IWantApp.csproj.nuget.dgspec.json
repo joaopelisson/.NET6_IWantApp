@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\IWantApp\\IWantApp.csproj": {}
+    "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\src\\IWantApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\IWantApp\\IWantApp.csproj": {
+    "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\src\\IWantApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\IWantApp\\IWantApp.csproj",
+        "projectUniqueName": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\src\\IWantApp.csproj",
         "projectName": "IWantApp",
-        "projectPath": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\IWantApp\\IWantApp.csproj",
+        "projectPath": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\src\\IWantApp.csproj",
         "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\IWantApp\\obj\\",
+        "outputPath": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
