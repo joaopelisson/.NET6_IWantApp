@@ -8,4 +8,5 @@ It currently does not represent the final model of the project/repository, as it
 
 
 ℹ️ Where so far the following modules have been completed:
-- Section 12 - First steps of the project (in dev...)
+- Section 12 - First steps of the project ✔
+- Section 13 - Validations (in dev...)
