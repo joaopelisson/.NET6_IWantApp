@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i6KHJSf9jBjQtcDwcAR6J/XQQcT6jRN9MGbNo2dqPzYfQbrveOqW+vBg1gXI8yX1nXIER+Ru1OkKzVFyZBDmaA==",
+  "dgSpecHash": "qiNbLRicsFHgWRAE4wfRgumyRX/yAoR81haATOnYfhuBPG/kMWHnoZhzPuNCcAphuRFQcMmDDOtEnJ2B/wHhfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\src\\IWantApp.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\JP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.0\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
@@ -25,6 +28,8 @@
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.0\\microsoft.extensions.identity.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.0\\microsoft.extensions.identity.stores.6.0.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
