@@ -86,3 +86,4 @@ C:\Users\JP\Desktop\Dev\.NET6_IWantApp\src\bin\Debug\net6.0\runtimes\win\lib\net
 C:\Users\JP\Desktop\Dev\.NET6_IWantApp\src\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\JP\Desktop\Dev\.NET6_IWantApp\src\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\JP\Desktop\Dev\.NET6_IWantApp\src\bin\Debug\net6.0\Flunt.dll
+C:\Users\JP\Desktop\Dev\.NET6_IWantApp\src\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
