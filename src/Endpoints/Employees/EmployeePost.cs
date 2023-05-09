@@ -1,6 +1,7 @@
 ﻿using IWantApp.Domain.Products;
 using IWantApp.Infra.Data;
 using Microsoft.AspNetCore.Identity;
+using System.Security.Claims;
 
 namespace IWantApp.Endpoints.Employees;
 
@@ -20,6 +21,22 @@ public class EmployeePost
         {
             return Results.BadRequest(result.Errors.First());
         }
+
+        var calimResult 
+            = userManager.AddClaimAsync(user, new Claim("EmployeeCode", employeeRequest.EmployeeCode)).Result;
+
+        if(!calimResult.Succeeded)
+        {
+            return Results.BadRequest(result.Errors.First());
+        }
+
+        calimResult = userManager.AddClaimAsync(user, new Claim("Name", employeeRequest.Name)).Result;
+
+        if(!calimResult.Succeeded)
+        {
+            return Results.BadRequest(result.Errors.First());
+        }
+
 
         return Results.Created($"/employees/{user.Id}", user.Id);
     }
