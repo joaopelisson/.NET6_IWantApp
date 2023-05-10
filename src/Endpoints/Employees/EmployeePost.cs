@@ -22,21 +22,18 @@ public class EmployeePost
             return Results.BadRequest(result.Errors.First());
         }
 
-        var calimResult 
-            = userManager.AddClaimAsync(user, new Claim("EmployeeCode", employeeRequest.EmployeeCode)).Result;
+        var userClaims = new List<Claim>
+        {
+             new Claim("EmployeeCode", employeeRequest.EmployeeCode),
+             new Claim("Name", employeeRequest.Name)
+        };
 
-        if(!calimResult.Succeeded)
+        var claimResults = userManager.AddClaimsAsync(user, userClaims).Result;
+
+        if(!claimResults.Succeeded)
         {
             return Results.BadRequest(result.Errors.First());
         }
-
-        calimResult = userManager.AddClaimAsync(user, new Claim("Name", employeeRequest.Name)).Result;
-
-        if(!calimResult.Succeeded)
-        {
-            return Results.BadRequest(result.Errors.First());
-        }
-
 
         return Results.Created($"/employees/{user.Id}", user.Id);
     }
