@@ -10,4 +10,5 @@ It currently does not represent the final model of the project/repository, as it
 ℹ️ Where so far the following modules have been completed:
 - Section 12 - First steps of the project ✔
 - Section 13 - Validations ✔
-- Section 14 - Identity (in dev...)
+- Section 14 - Identity ✔
+- Section 15 - JWT and Authentication (in dev...)
