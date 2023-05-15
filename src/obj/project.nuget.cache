@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qiNbLRicsFHgWRAE4wfRgumyRX/yAoR81haATOnYfhuBPG/kMWHnoZhzPuNCcAphuRFQcMmDDOtEnJ2B/wHhfQ==",
+  "dgSpecHash": "VR0Dp3BKhDE2qk29iQcDK60Ey+koYy/z5n5zzum7r+Ure5S4lYlUjtJrVo7Sr4hbe+/l95A8XuyFE8UMYJtv0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\JP\\Desktop\\Dev\\.NET6_IWantApp\\src\\IWantApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\JP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
