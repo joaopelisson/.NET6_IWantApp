@@ -1,2 +1,8 @@
 .vs/
-src/.vs/
+.vs
+
+
+build/
+Bin/
+bin/
+[Rr]ealease/
