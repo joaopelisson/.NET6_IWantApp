@@ -15,7 +15,7 @@ public class QueryAllUsersWithClaimName
 
     public IEnumerable<EmployeeResponse> Execute(int page, int rows)
     {
-        var db = new SqlConnection(configuration["ConnectionStrings:IWantDb"]);
+        var db = new SqlConnection(configuration["ConnectionString:IWantDb"]);
 
         var query =
             @"SELECT Email, ClaimValue AS 'Name'
