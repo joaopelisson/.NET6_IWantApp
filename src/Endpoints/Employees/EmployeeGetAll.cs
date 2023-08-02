@@ -9,7 +9,7 @@ namespace IWantApp.Endpoints.Employees;
 
     public static Delegate Handle => Action;
 
-    [Authorize(Policy = "EmployeePolicy")]
+    [Authorize(Policy = "Employee005Policy")]
     public static IResult Action(int? page, int? rows, QueryAllUsersWithClaimName query)
     {
         if (!page.HasValue)
