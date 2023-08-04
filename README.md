@@ -12,4 +12,5 @@ It currently does not represent the final model of the project/repository, as it
 - Section 13 - Validations ✔
 - Section 14 - Identity ✔
 - Section 15 - JWT and Authentication ✔
-- Section 16 - Async vs Sync (in dev...) 
+- Section 16 - Async vs Sync ✔
+- Section 17 - Improving the application (in dev...)
