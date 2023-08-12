@@ -1,3 +1,7 @@
 ﻿namespace IWantApp.Endpoints.Categories;
 
-public record CategoryRequest(string Name, bool Active)
+public class CategoryRequest
+{
+    public string Name { get; set; }
+    public bool Active {  get; set; }
+}
