@@ -16,4 +16,5 @@ It currently does not represent the final model of the project/repository, as it
 - Section 17 - Improving the application ✔
 - Section 18 - Logs and monitoring ✔
 - Section 19 - Product management ✔
-- Section 20 - Product showcase (in dev...)
+- Section 20 - Product showcase ✔
+- Section 21 - Customer management (in dev...)
