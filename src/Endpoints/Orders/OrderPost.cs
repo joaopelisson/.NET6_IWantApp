@@ -1,6 +1,6 @@
 ﻿using IWantApp.Domain.Orders;
 
-namespace IWantApp.Endpoints.Clients;
+namespace IWantApp.Endpoints.Orders;
 public class OrderPost
 {
     public static string Template => "/orders";
@@ -15,16 +15,6 @@ public class OrderPost
 
         var clientName = http.User.Claims
             .First(c => c.Type == "Name").Value;
-
-        //if(orderRequest.ProductIds == null || !orderRequest.ProductIds.Any())
-        //{
-        //    return Results.BadRequest("Product is mandatory for the order");
-        //}
-
-        //if(string.IsNullOrEmpty(orderRequest.DeliveryAddress))
-        //{
-        //    return Results.BadRequest("Delivery Address is required");
-        //}
 
         List<Product> productsFound = null;
 
